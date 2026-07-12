@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="APIVigilian/APIVigilian.csproj" />
+  <Project Path="Vigilha-0.0.1/Vigilha-0.0.1.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
